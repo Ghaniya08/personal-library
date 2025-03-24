@@ -26,14 +26,6 @@ A simple and beautiful web-based Personal Library app built using [Streamlit](ht
 
 ---
 
-## 🖥️ Screenshots
-
-| Add Book | Book List | Statistics |
-|----------|-----------|------------|
-| ![Add Book](screenshots/add_book.png) | ![Book List](screenshots/book_list.png) | ![Stats](screenshots/statistics.png) |
-
----
-
 ## ⚙️ Installation
 
 Make sure you have Python 3.7 or higher installed.
